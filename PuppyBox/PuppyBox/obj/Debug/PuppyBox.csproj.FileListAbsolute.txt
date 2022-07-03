@@ -1,0 +1,13 @@
+D:\CODE\visual studio 2010\Projects\PuppyBox\PuppyBox\bin\Debug\PuppyBox.exe.config
+D:\CODE\visual studio 2010\Projects\PuppyBox\PuppyBox\bin\Debug\PuppyBox.exe
+D:\CODE\visual studio 2010\Projects\PuppyBox\PuppyBox\bin\Debug\PuppyBox.pdb
+D:\CODE\visual studio 2010\Projects\PuppyBox\PuppyBox\obj\Debug\PuppyBox.Form1.resources
+D:\CODE\visual studio 2010\Projects\PuppyBox\PuppyBox\obj\Debug\PuppyBox.Properties.Resources.resources
+D:\CODE\visual studio 2010\Projects\PuppyBox\PuppyBox\obj\Debug\PuppyBox.csproj.GenerateResource.cache
+D:\CODE\visual studio 2010\Projects\PuppyBox\PuppyBox\obj\Debug\PuppyBox.csproj.CoreCompileInputs.cache
+D:\CODE\visual studio 2010\Projects\PuppyBox\PuppyBox\obj\Debug\PuppyBox.exe
+D:\CODE\visual studio 2010\Projects\PuppyBox\PuppyBox\obj\Debug\PuppyBox.pdb
+D:\CODE\visual studio 2010\Projects\PuppyBox\PuppyBox\obj\Debug\PuppyBox.csprojAssemblyReference.cache
+D:\CODE\visual studio 2010\Projects\PuppyBox\PuppyBox\obj\Debug\PuppyBox.FormAbout.resources
+D:\CODE\visual studio 2010\Projects\PuppyBox\PuppyBox\obj\Debug\PuppyBox.FormScore.resources
+D:\CODE\visual studio 2010\Projects\PuppyBox\PuppyBox\obj\Debug\PuppyBox.FormTestBlockInput.resources
