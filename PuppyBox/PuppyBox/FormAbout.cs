@@ -33,5 +33,11 @@ namespace PuppyBox
             // throw new NotImplementedException();
             System.Diagnostics.Process.Start(e.LinkText);
         }
+
+        private void linkLabel1_LickClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start(linkLabel1.Text );
+
+        }
     }
 }
