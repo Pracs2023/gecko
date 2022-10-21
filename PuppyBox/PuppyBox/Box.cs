@@ -43,8 +43,8 @@ namespace PuppyBox
                 return _DogImage;
             }
         }
-        public static Color BackBoxColor = Color.Teal  ;
-        public static Color FaceBoxColor = Color.LightYellow ;
+        public static Color BackBoxColor = Color.Red  ;
+        public static Color FaceBoxColor = Color.Yellow ;
         private static Brush _BackBrush = null;
         private  Brush BackBrush
         {
